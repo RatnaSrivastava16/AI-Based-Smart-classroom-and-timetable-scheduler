@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/layout_item_timetable_row.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/layout/item_timetable_row.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/layout_activity_details.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/layout/activity_details.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/drawable_bg_soft_card_amber.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/drawable/bg_soft_card_amber.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/layout_item_dashboard_info.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/layout/item_dashboard_info.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/drawable_bg_screen_gradient.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/drawable/bg_screen_gradient.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/drawable_bg_soft_card_green.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/drawable/bg_soft_card_green.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/layout_activity_login.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/layout_item_timetable_header.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/layout/item_timetable_header.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/anim_enter_from_bottom.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/anim/enter_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/drawable_bg_hero_gradient.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/drawable/bg_hero_gradient.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/layout_activity_faculty.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/layout/activity_faculty.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/anim_layout_fall_down.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/anim/layout_fall_down.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/layout_activity_onboarding.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/layout_activity_reviews.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/layout/activity_reviews.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/anim_pop_in.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/anim/pop_in.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/drawable_bg_timetable_row_conflict.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/drawable/bg_timetable_row_conflict.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/drawable_app_icon.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/drawable/app_icon.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/drawable_bg_glass_panel.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/drawable/bg_glass_panel.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/drawable_bg_soft_card_blue.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/drawable/bg_soft_card_blue.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/drawable_bg_timetable_row_normal.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/drawable/bg_timetable_row_normal.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/layout_activity_main.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.smarttimetable.scheduler.app-merged_res-48:/layout_activity_faculty.xml.flat",
+        "source": "com.smarttimetable.scheduler.app-main-50:/layout/activity_faculty.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/anim_item_fall_down.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/anim/item_fall_down.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/layout_activity_contact.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/layout/activity_contact.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-merged_res-48:/layout_activity_splash.xml.flat",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/layout/activity_splash.xml"
+    }
+]

@@ -1,0 +1,51 @@
+com.smarttimetable.scheduler.app-room-ktx-2.6.1-0 /Users/utkarshanand/.gradle/caches/transforms-3/01603ba6bfaa124ad24c01ffe8ddd00e/transformed/room-ktx-2.6.1/res
+com.smarttimetable.scheduler.app-constraintlayout-2.1.4-1 /Users/utkarshanand/.gradle/caches/transforms-3/024d27485c2791a8adf4e5a047e40e73/transformed/constraintlayout-2.1.4/res
+com.smarttimetable.scheduler.app-drawerlayout-1.1.1-2 /Users/utkarshanand/.gradle/caches/transforms-3/0c456c448dbe5fa8c0162ded98c0f8d7/transformed/drawerlayout-1.1.1/res
+com.smarttimetable.scheduler.app-cardview-1.0.0-3 /Users/utkarshanand/.gradle/caches/transforms-3/0d7363bc1833c9765c8ea824f330b437/transformed/cardview-1.0.0/res
+com.smarttimetable.scheduler.app-core-ktx-1.12.0-4 /Users/utkarshanand/.gradle/caches/transforms-3/1651d14d1220488967460cb5d1bf0fb3/transformed/core-ktx-1.12.0/res
+com.smarttimetable.scheduler.app-profileinstaller-1.3.0-5 /Users/utkarshanand/.gradle/caches/transforms-3/1a46ed0a607d028b0f6d5033d82f6602/transformed/profileinstaller-1.3.0/res
+com.smarttimetable.scheduler.app-customview-poolingcontainer-1.0.0-6 /Users/utkarshanand/.gradle/caches/transforms-3/224465aa29b5af09da9e1e14de916621/transformed/customview-poolingcontainer-1.0.0/res
+com.smarttimetable.scheduler.app-sqlite-framework-2.4.0-7 /Users/utkarshanand/.gradle/caches/transforms-3/261801cf65cfbb92c0aaff01e33c7d73/transformed/sqlite-framework-2.4.0/res
+com.smarttimetable.scheduler.app-play-services-base-18.3.0-8 /Users/utkarshanand/.gradle/caches/transforms-3/27246899695f3b63f3b8290d585c79e9/transformed/play-services-base-18.3.0/res
+com.smarttimetable.scheduler.app-fragment-1.5.7-9 /Users/utkarshanand/.gradle/caches/transforms-3/2d0718e3813d37ef3439dcbf676f7804/transformed/fragment-1.5.7/res
+com.smarttimetable.scheduler.app-core-1.12.0-10 /Users/utkarshanand/.gradle/caches/transforms-3/2f57724fee555789899d722375e5c19d/transformed/core-1.12.0/res
+com.smarttimetable.scheduler.app-savedstate-1.2.1-11 /Users/utkarshanand/.gradle/caches/transforms-3/4046aa055d3539ab1cd9e414e1d30542/transformed/savedstate-1.2.1/res
+com.smarttimetable.scheduler.app-lifecycle-livedata-core-ktx-2.7.0-12 /Users/utkarshanand/.gradle/caches/transforms-3/40ef68c08f50373368f0609b82ba5937/transformed/lifecycle-livedata-core-ktx-2.7.0/res
+com.smarttimetable.scheduler.app-transition-1.2.0-13 /Users/utkarshanand/.gradle/caches/transforms-3/42b059bd61dbdecfcb6d4b7a50262b8d/transformed/transition-1.2.0/res
+com.smarttimetable.scheduler.app-lifecycle-viewmodel-savedstate-2.7.0-14 /Users/utkarshanand/.gradle/caches/transforms-3/43340aaec2e2677c6a723c971d2bc56c/transformed/lifecycle-viewmodel-savedstate-2.7.0/res
+com.smarttimetable.scheduler.app-lifecycle-process-2.7.0-15 /Users/utkarshanand/.gradle/caches/transforms-3/4d8189b8c51d8883d478a8bda1d194d5/transformed/lifecycle-process-2.7.0/res
+com.smarttimetable.scheduler.app-savedstate-ktx-1.2.1-16 /Users/utkarshanand/.gradle/caches/transforms-3/4ee51946d5a9ccc76a00d7dc0346fcde/transformed/savedstate-ktx-1.2.1/res
+com.smarttimetable.scheduler.app-viewpager2-1.1.0-beta02-17 /Users/utkarshanand/.gradle/caches/transforms-3/5ebf2c4598471fe680a79dfbb3e1de65/transformed/viewpager2-1.1.0-beta02/res
+com.smarttimetable.scheduler.app-lifecycle-runtime-2.7.0-18 /Users/utkarshanand/.gradle/caches/transforms-3/62a47bfe477cdd8baca72ab3c291ccb0/transformed/lifecycle-runtime-2.7.0/res
+com.smarttimetable.scheduler.app-play-services-auth-21.2.0-19 /Users/utkarshanand/.gradle/caches/transforms-3/67bc37e75a9328fc5993db9dbec4b400/transformed/play-services-auth-21.2.0/res
+com.smarttimetable.scheduler.app-material-1.11.0-20 /Users/utkarshanand/.gradle/caches/transforms-3/74d63dafd6b40508abd0dfffee32e6db/transformed/material-1.11.0/res
+com.smarttimetable.scheduler.app-room-runtime-2.6.1-21 /Users/utkarshanand/.gradle/caches/transforms-3/7728cf3d090d5877ec64db0ff272f55d/transformed/room-runtime-2.6.1/res
+com.smarttimetable.scheduler.app-appcompat-resources-1.6.1-22 /Users/utkarshanand/.gradle/caches/transforms-3/81510607197dbcef3cf8a25796d0e979/transformed/appcompat-resources-1.6.1/res
+com.smarttimetable.scheduler.app-emoji2-1.2.0-23 /Users/utkarshanand/.gradle/caches/transforms-3/83f3f688b64ff2262c1fd2ec772a8fc2/transformed/emoji2-1.2.0/res
+com.smarttimetable.scheduler.app-core-runtime-2.2.0-24 /Users/utkarshanand/.gradle/caches/transforms-3/8b5c62d37b282665297a5605b893f19f/transformed/core-runtime-2.2.0/res
+com.smarttimetable.scheduler.app-lifecycle-livedata-core-2.7.0-25 /Users/utkarshanand/.gradle/caches/transforms-3/8c193b7ed830a75f19a394b4b1d755eb/transformed/lifecycle-livedata-core-2.7.0/res
+com.smarttimetable.scheduler.app-sqlite-2.4.0-26 /Users/utkarshanand/.gradle/caches/transforms-3/907b0d734bd5f39760ee7a408d7c3748/transformed/sqlite-2.4.0/res
+com.smarttimetable.scheduler.app-firebase-common-20.4.3-27 /Users/utkarshanand/.gradle/caches/transforms-3/9fff83000732b319e54595353304ba5b/transformed/firebase-common-20.4.3/res
+com.smarttimetable.scheduler.app-coordinatorlayout-1.1.0-28 /Users/utkarshanand/.gradle/caches/transforms-3/b0335de0987a6276f3ef2887c15fd766/transformed/coordinatorlayout-1.1.0/res
+com.smarttimetable.scheduler.app-emoji2-views-helper-1.2.0-29 /Users/utkarshanand/.gradle/caches/transforms-3/b1733680979eeeb48cb1555c5235cec3/transformed/emoji2-views-helper-1.2.0/res
+com.smarttimetable.scheduler.app-lifecycle-runtime-ktx-2.7.0-30 /Users/utkarshanand/.gradle/caches/transforms-3/b77c1f4a0ce90516145e27e54ef6a149/transformed/lifecycle-runtime-ktx-2.7.0/res
+com.smarttimetable.scheduler.app-browser-1.4.0-31 /Users/utkarshanand/.gradle/caches/transforms-3/c25be3128d090e08941d2616b3490f15/transformed/browser-1.4.0/res
+com.smarttimetable.scheduler.app-lifecycle-viewmodel-ktx-2.7.0-32 /Users/utkarshanand/.gradle/caches/transforms-3/c34aafe420a634a22aef7e275b0f7393/transformed/lifecycle-viewmodel-ktx-2.7.0/res
+com.smarttimetable.scheduler.app-annotation-experimental-1.3.0-33 /Users/utkarshanand/.gradle/caches/transforms-3/ca3923a0d675e37efa173b98fc7afea7/transformed/annotation-experimental-1.3.0/res
+com.smarttimetable.scheduler.app-lifecycle-livedata-ktx-2.7.0-34 /Users/utkarshanand/.gradle/caches/transforms-3/cb3ea3ff8c7de799df9a3006d1635cf8/transformed/lifecycle-livedata-ktx-2.7.0/res
+com.smarttimetable.scheduler.app-lifecycle-livedata-2.7.0-35 /Users/utkarshanand/.gradle/caches/transforms-3/cf4eb24b00f073032a5c80713bfc93aa/transformed/lifecycle-livedata-2.7.0/res
+com.smarttimetable.scheduler.app-activity-ktx-1.8.2-36 /Users/utkarshanand/.gradle/caches/transforms-3/d0387e67009a2cfece030325869ab626/transformed/activity-ktx-1.8.2/res
+com.smarttimetable.scheduler.app-appcompat-1.6.1-37 /Users/utkarshanand/.gradle/caches/transforms-3/d88612b59bb73dd1045ddc08243b78ce/transformed/appcompat-1.6.1/res
+com.smarttimetable.scheduler.app-play-services-basement-18.3.0-38 /Users/utkarshanand/.gradle/caches/transforms-3/e5b164085b78caad3d5deb41fa6cb008/transformed/play-services-basement-18.3.0/res
+com.smarttimetable.scheduler.app-recyclerview-1.3.2-39 /Users/utkarshanand/.gradle/caches/transforms-3/e7f3fd594d27f2cd18ef6ac5637c5600/transformed/recyclerview-1.3.2/res
+com.smarttimetable.scheduler.app-activity-1.8.2-40 /Users/utkarshanand/.gradle/caches/transforms-3/ed30949025cf172386321aae3ecf9210/transformed/activity-1.8.2/res
+com.smarttimetable.scheduler.app-lifecycle-viewmodel-2.7.0-41 /Users/utkarshanand/.gradle/caches/transforms-3/ee58208662e8b1705da91c84092f2ffa/transformed/lifecycle-viewmodel-2.7.0/res
+com.smarttimetable.scheduler.app-startup-runtime-1.1.1-42 /Users/utkarshanand/.gradle/caches/transforms-3/f75ce46aa616ffc0ab8d8c17f384deba/transformed/startup-runtime-1.1.1/res
+com.smarttimetable.scheduler.app-pngs-43 /Users/utkarshanand/Documents/SMART TIMETABLE AND CLASSROOM SCHEDULER/app/build/generated/res/pngs/debug
+com.smarttimetable.scheduler.app-res-44 /Users/utkarshanand/Documents/SMART TIMETABLE AND CLASSROOM SCHEDULER/app/build/generated/res/processDebugGoogleServices
+com.smarttimetable.scheduler.app-resValues-45 /Users/utkarshanand/Documents/SMART TIMETABLE AND CLASSROOM SCHEDULER/app/build/generated/res/resValues/debug
+com.smarttimetable.scheduler.app-packageDebugResources-46 /Users/utkarshanand/Documents/SMART TIMETABLE AND CLASSROOM SCHEDULER/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.smarttimetable.scheduler.app-packageDebugResources-47 /Users/utkarshanand/Documents/SMART TIMETABLE AND CLASSROOM SCHEDULER/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.smarttimetable.scheduler.app-merged_res-48 /Users/utkarshanand/Documents/SMART TIMETABLE AND CLASSROOM SCHEDULER/app/build/intermediates/merged_res/debug
+com.smarttimetable.scheduler.app-debug-49 /Users/utkarshanand/Documents/SMART TIMETABLE AND CLASSROOM SCHEDULER/app/src/debug/res
+com.smarttimetable.scheduler.app-main-50 /Users/utkarshanand/Documents/SMART TIMETABLE AND CLASSROOM SCHEDULER/app/src/main/res

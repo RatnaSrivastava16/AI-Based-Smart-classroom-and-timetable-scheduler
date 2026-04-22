@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-mergeDebugResources-47:/layout/activity_contact.xml",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/layout/activity_contact.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-mergeDebugResources-47:/layout/activity_onboarding.xml",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-mergeDebugResources-47:/layout/item_timetable_header.xml",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/layout/item_timetable_header.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-mergeDebugResources-47:/layout/item_timetable_row.xml",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/layout/item_timetable_row.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-mergeDebugResources-47:/layout/item_dashboard_info.xml",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/layout/item_dashboard_info.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-mergeDebugResources-47:/layout/activity_login.xml",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-mergeDebugResources-47:/layout/activity_reviews.xml",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/layout/activity_reviews.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-mergeDebugResources-47:/layout/activity_faculty.xml",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/layout/activity_faculty.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-mergeDebugResources-47:/layout/activity_details.xml",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/layout/activity_details.xml"
+    },
+    {
+        "merged": "com.smarttimetable.scheduler.app-mergeDebugResources-47:/layout/activity_faculty.xml",
+        "source": "com.smarttimetable.scheduler.app-main-50:/layout/activity_faculty.xml"
+    },
+    {
+        "merged": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-mergeDebugResources-47:/layout/activity_splash.xml",
+        "source": "/Users/utkarshanand/.gradle/daemon/8.5/com.smarttimetable.scheduler.app-main-50:/layout/activity_splash.xml"
+    }
+]

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="amber_accent">#F4A259</color>
+    <color name="blue_secondary">#1D4E89</color>
+    <color name="conflict_red">#C62828</color>
+    <color name="conflict_soft">#FFEBEE</color>
+    <color name="green_primary">#0B6E4F</color>
+    <color name="green_primary_dark">#084C38</color>
+    <color name="hero_end">#1D4E89</color>
+    <color name="hero_start">#0B6E4F</color>
+    <color name="hero_text">#F8FFFC</color>
+    <color name="normal_soft">#F7FAFC</color>
+    <color name="screen_background">#F5F7FA</color>
+    <color name="soft_amber">#FFF3E7</color>
+    <color name="soft_blue">#EAF2FF</color>
+    <color name="soft_green">#E7F6EF</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="text_muted">#7B8794</color>
+    <color name="text_primary">#102A43</color>
+    <color name="text_secondary">#486581</color>
+    <string name="absent_support">Absence Support</string>
+    <string name="add_class_group">Add Class</string>
+    <string name="add_classroom">Add Classroom</string>
+    <string name="add_faculty">Add Faculty</string>
+    <string name="add_subject">Add Subject</string>
+    <string name="admin_login">Smart Scheduler Login</string>
+    <string name="app_name">AI Timetable Scheduler</string>
+    <string name="availability">Available Days</string>
+    <string name="avg_leaves">Avg Leaves / Month</string>
+    <string name="call_support">Call Support</string>
+    <string name="capacity_total">Seat Capacity</string>
+    <string name="class_count">Classes</string>
+    <string name="class_item_detail">Strength %1$d</string>
+    <string name="class_name">Class Name</string>
+    <string name="class_preview">Class Groups</string>
+    <string name="class_strength">Strength</string>
+    <string name="classroom_preview">Classroom Readiness</string>
+    <string name="college_name">College / University</string>
+    <string name="college_session">College: %1$s</string>
+    <string name="conflict_count">Conflicts</string>
+    <string name="contact_page">Contact</string>
+    <string name="contact_subtitle">For deployment help, timetable changes, or onboarding support, reach us directly from the app.</string>
+    <string name="contact_title">Stay Connected With The Scheduling Team</string>
+    <string name="create_account">Create Account</string>
+    <string name="dashboard_headline">Campus planner with a cleaner view of faculty, rooms, and smart scheduling</string>
+    <string name="data_saved">Saved successfully</string>
+    <string name="data_snapshot">Live Snapshot</string>
+    <string name="default_web_client_id" translatable="false">673560644420-mfqdj6tla5raf142k5rr4uqsi4sfjr6g.apps.googleusercontent.com</string>
+    <string name="delete">Delete</string>
+    <string name="detailed_timetable">Detailed Timetable</string>
+    <string name="details_page">Details</string>
+    <string name="details_subtitle">Add data, review every record, and keep the scheduler ready for generation.</string>
+    <string name="details_title">Operations Detail Center</string>
+    <string name="edit">Edit</string>
+    <string name="email_not_verified">Email not verified. Verification link sent again.</string>
+    <string name="email_support">Email Support</string>
+    <string name="empty_classes">No classes added yet. Add class names and sections so teaching assignments are clearer.</string>
+    <string name="empty_classrooms">No classrooms added yet. Add rooms with capacities for better allocation.</string>
+    <string name="empty_faculty">No faculty added yet. Use the details page to add teachers and availability.</string>
+    <string name="empty_subjects">No subjects added yet. Add course load details to guide the solver.</string>
+    <string name="empty_timetable">No timetable generated yet. Tap Generate Timetable to create one.</string>
+    <string name="enter_college_name">Enter college name</string>
+    <string name="enter_faculty_name">Enter faculty name</string>
+    <string name="faculty_access_subtitle">Faculty can log in with their name and college to view only their own schedule.</string>
+    <string name="faculty_count">Faculties</string>
+    <string name="faculty_dashboard">Faculty Dashboard</string>
+    <string name="faculty_full_name">Faculty Full Name</string>
+    <string name="faculty_item_detail">%1$s • Leaves %2$d/month</string>
+    <string name="faculty_login_title">Faculty Timetable Login</string>
+    <string name="faculty_name">Faculty Name</string>
+    <string name="faculty_not_found">Faculty not found for this college.</string>
+    <string name="faculty_preview">Faculty Team</string>
+    <string name="faculty_subject">Faculty Subject</string>
+    <string name="fitness_score">Fitness Score</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="full_classgroup_list">All Classes</string>
+    <string name="full_classroom_list">All Classrooms</string>
+    <string name="full_faculty_list">All Faculty</string>
+    <string name="full_subject_list">All Subjects</string>
+    <string name="full_timetable_list">Generated Timetable</string>
+    <string name="gcm_defaultSenderId" translatable="false">673560644420</string>
+    <string name="generate_schedule_summary">Run AI solvers and refresh the schedule with one tap.</string>
+    <string name="generate_timetable">Generate Timetable</string>
+    <string name="get_started">Get Started</string>
+    <string name="google_api_key" translatable="false">AIzaSyBO87BUZHA0z4PX6sXVQz4lkaHTSmHGskw</string>
+    <string name="google_app_id" translatable="false">1:673560644420:android:4c426b71a869455bef2511</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBO87BUZHA0z4PX6sXVQz4lkaHTSmHGskw</string>
+    <string name="google_demo_mode">Google selected without Firebase token. Continuing in demo mode.</string>
+    <string name="google_sign_in">Continue with Google</string>
+    <string name="google_sign_in_failed">Google sign-in failed.</string>
+    <string name="google_storage_bucket" translatable="false">ai-based-smart-classroom.firebasestorage.app</string>
+    <string name="home_page">Home</string>
+    <string name="home_subtitle">Create data, run GA optimization, review top 3 schedules</string>
+    <string name="home_title">AI-Based Smart Classroom &amp; Timetable Scheduler</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="manage_data">Manage Data</string>
+    <string name="mark_absent">Mark Faculty Absent</string>
+    <string name="missing_google_client_id">Missing google web client id. Check google-services.json.</string>
+    <string name="navigation_current_page">%1$s page</string>
+    <string name="next">Next</string>
+    <string name="onboard_dots">Step %1$d of %2$d</string>
+    <string name="onboard_subtitle_1">Plan classrooms and faculty workload with AI-backed optimization.</string>
+    <string name="onboard_subtitle_2">Admins manage data. Faculty members view and work with generated schedules.</string>
+    <string name="onboard_subtitle_3">Use Firebase Email/Password or Google Sign-In with secure session routing.</string>
+    <string name="onboard_title_1">Welcome to Smart Scheduling</string>
+    <string name="onboard_title_2">Role-based Access</string>
+    <string name="onboard_title_3">Real-time Auth Security</string>
+    <string name="open_contact">Contact</string>
+    <string name="open_details">Open Details</string>
+    <string name="open_reviews">Reviews</string>
+    <string name="password">Password</string>
+    <string name="project_id" translatable="false">ai-based-smart-classroom</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="rating_summary">Average Rating</string>
+    <string name="review_cta">Need a custom setup? Contact the team.</string>
+    <string name="review_hint">Write your feedback about the timetable experience</string>
+    <string name="review_saved">Review submitted</string>
+    <string name="reviews_empty">No faculty reviews yet for this college.</string>
+    <string name="reviews_page">Reviews</string>
+    <string name="reviews_subtitle">A presentation-ready page that makes the product feel more complete and trustworthy.</string>
+    <string name="reviews_title">What Teams Say About The Scheduler</string>
+    <string name="role_admin">Admin</string>
+    <string name="role_faculty">Faculty</string>
+    <string name="room_capacity">Room Capacity</string>
+    <string name="room_count">Rooms</string>
+    <string name="room_item_detail">Capacity %1$d students</string>
+    <string name="room_name">Room Name</string>
+    <string name="save_college">Save College</string>
+    <string name="secure_access_subtitle">Firebase auth, role-based routing, and AI scheduling</string>
+    <string name="select_days">Select available days</string>
+    <string name="session_count">Sessions</string>
+    <string name="session_email">Session: %1$s</string>
+    <string name="session_role">Role: %1$s</string>
+    <string name="set_college_message">Enter the college or university this admin account will manage. Faculty will use the same college name while logging in.</string>
+    <string name="set_college_title">Set College</string>
+    <string name="share_review">Share Review</string>
+    <string name="show_all">Show all</string>
+    <string name="show_less">Show less</string>
+    <string name="skip">Skip</string>
+    <string name="solver_comparison">AI Solver Comparison</string>
+    <string name="subject_count">Subjects</string>
+    <string name="subject_item_detail">%1$s • %2$d classes per week</string>
+    <string name="subject_name">Subject Name</string>
+    <string name="subject_preview">Academic Load</string>
+    <string name="submit_review">Submit Review</string>
+    <string name="support_email_label">Support Email</string>
+    <string name="support_email_value">utkarshtiwary7488@gmail.com</string>
+    <string name="support_hours_label">Hours</string>
+    <string name="support_hours_value">Mon to Sat, 9:00 AM to 6:00 PM</string>
+    <string name="support_location_label">Campus Desk</string>
+    <string name="support_location_value">Innovation Block, Academic Operations Cell</string>
+    <string name="support_phone_label">Support Line</string>
+    <string name="support_phone_value">+91 74885 68405</string>
+    <string name="target_class_name">Teaching Class</string>
+    <string name="timetable">Timetable</string>
+    <string name="timetable_item_detail">%1$s | %2$s | %3$s</string>
+    <string name="update_class_group">Update Class</string>
+    <string name="update_classroom">Update Classroom</string>
+    <string name="update_faculty">Update Faculty</string>
+    <string name="update_subject">Update Subject</string>
+    <string name="username">Email</string>
+    <string name="visual_timetable">Visual Timetable</string>
+    <string name="weekly_classes">Weekly Classes Required</string>
+    <string name="welcome_back">Welcome back</string>
+    <style name="Theme.AITimetable" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green_primary</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorPrimaryContainer">#CDEEE3</item>
+        <item name="colorSecondary">@color/blue_secondary</item>
+        <item name="colorTertiary">@color/amber_accent</item>
+        <item name="colorSurface">@color/surface_card</item>
+        <item name="android:statusBarColor">@color/green_primary_dark</item>
+        <item name="android:navigationBarColor">@color/screen_background</item>
+    </style>
+    <style name="Widget.AITimetable.InputLayout" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/green_primary</item>
+        <item name="hintTextColor">@color/text_secondary</item>
+    </style>
+    <style name="Widget.AITimetable.PrimaryButton" parent="Widget.Material3.Button">
+        <item name="android:textAllCaps">false</item>
+        <item name="cornerRadius">16dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Widget.AITimetable.SecondaryButton" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="android:textAllCaps">false</item>
+        <item name="cornerRadius">16dp</item>
+    </style>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "673560644420",
+    "project_id": "ai-based-smart-classroom",
+    "storage_bucket": "ai-based-smart-classroom.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673560644420:android:4c426b71a869455bef2511",
+        "android_client_info": {
+          "package_name": "com.smarttimetable.scheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673560644420-sc93p5d5gn7bakmu7l9cun3tjjqrgb7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smarttimetable.scheduler",
+            "certificate_hash": "c63a6365c6fec57e40afe9d143fc1c21f846553d"
+          }
+        },
+        {
+          "client_id": "673560644420-mfqdj6tla5raf142k5rr4uqsi4sfjr6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO87BUZHA0z4PX6sXVQz4lkaHTSmHGskw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673560644420-mfqdj6tla5raf142k5rr4uqsi4sfjr6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

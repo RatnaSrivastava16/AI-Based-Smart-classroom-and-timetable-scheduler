@@ -1,0 +1,20 @@
+<resources>
+    <color name="green_primary">#0B6E4F</color>
+    <color name="green_primary_dark">#084C38</color>
+    <color name="blue_secondary">#1D4E89</color>
+    <color name="amber_accent">#F4A259</color>
+    <color name="screen_background">#F5F7FA</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="text_primary">#102A43</color>
+    <color name="text_secondary">#486581</color>
+    <color name="text_muted">#7B8794</color>
+    <color name="conflict_red">#C62828</color>
+    <color name="conflict_soft">#FFEBEE</color>
+    <color name="normal_soft">#F7FAFC</color>
+    <color name="hero_start">#0B6E4F</color>
+    <color name="hero_end">#1D4E89</color>
+    <color name="hero_text">#F8FFFC</color>
+    <color name="soft_green">#E7F6EF</color>
+    <color name="soft_blue">#EAF2FF</color>
+    <color name="soft_amber">#FFF3E7</color>
+</resources>
